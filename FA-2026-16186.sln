@@ -9,6 +9,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SE3-P", "SE3-P\SE3-P.pyproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE4_C#", "SE4_C#\SE4_C#.csproj", "{F4B45D21-B364-44DA-AE88-F2A9EDA20A12}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SE4_P", "SE4_P\SE4_P.pyproj", "{493F0060-20A9-4055-BEBB-C96BF663B049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE5_C#", "SE5_C#\SE5_C#.csproj", "{1721319D-2625-41FD-A87A-EBC54DEE9C01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,12 @@ Global
 		{F4B45D21-B364-44DA-AE88-F2A9EDA20A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4B45D21-B364-44DA-AE88-F2A9EDA20A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4B45D21-B364-44DA-AE88-F2A9EDA20A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493F0060-20A9-4055-BEBB-C96BF663B049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493F0060-20A9-4055-BEBB-C96BF663B049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1721319D-2625-41FD-A87A-EBC54DEE9C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1721319D-2625-41FD-A87A-EBC54DEE9C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1721319D-2625-41FD-A87A-EBC54DEE9C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1721319D-2625-41FD-A87A-EBC54DEE9C01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
