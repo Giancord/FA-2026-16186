@@ -11,17 +11,18 @@ namespace S7_C_
         static void Main(string[] args)
         {
             string continuar;
-            int suma = 0, i=1;
-
+            
+            
             do
             {
+                int num=0, suma = 0, i = 1;
                 Console.Clear();  //Limpia la consola cuando se reinicia el bucle.
                 Console.Write("Ingrese un número positivo: ");
-                int num = int.Parse(Console.ReadLine());
+                num = int.Parse(Console.ReadLine());
 
                 do
                 {
-                    suma++;
+                    suma+=i;
                     i++;
                 }
                 while (i<=num);
