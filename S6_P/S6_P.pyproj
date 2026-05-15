@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>17548b2b-bcc7-4521-aaaa-91fed39b096e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>EJ2.py</StartupFile>
+    <StartupFile>EJ4.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

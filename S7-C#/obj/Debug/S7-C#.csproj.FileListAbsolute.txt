@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\FUND ALG S8C2\FA-2026-16186\S7-C#\bin\Debug\S7-C#.exe.config
+C:\Users\UPN\Desktop\FUND ALG S8C2\FA-2026-16186\S7-C#\bin\Debug\S7-C#.exe
+C:\Users\UPN\Desktop\FUND ALG S8C2\FA-2026-16186\S7-C#\bin\Debug\S7-C#.pdb
+C:\Users\UPN\Desktop\FUND ALG S8C2\FA-2026-16186\S7-C#\obj\Debug\S7-C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FUND ALG S8C2\FA-2026-16186\S7-C#\obj\Debug\S7-C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FUND ALG S8C2\FA-2026-16186\S7-C#\obj\Debug\S7-C#.exe
+C:\Users\UPN\Desktop\FUND ALG S8C2\FA-2026-16186\S7-C#\obj\Debug\S7-C#.pdb
