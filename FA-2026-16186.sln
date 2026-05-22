@@ -19,6 +19,12 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "S6_P", "S6_P\S6_P.pyproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S7-C#", "S7-C#\S7-C#.csproj", "{8FAF08FC-C5E5-4B1E-9FD6-BE22219239BC}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "s8-p", "s8-p\s8-p.pyproj", "{50AF8979-C713-4878-BBBD-9FF2A44E261F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S9-C#", "S9-C#\S9-C#.csproj", "{1A996961-AF9A-4BCB-887F-4D26858E8E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biblioteca", "biblioteca\biblioteca.csproj", "{9021D001-26E9-4189-B738-EEE383999B00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +55,16 @@ Global
 		{8FAF08FC-C5E5-4B1E-9FD6-BE22219239BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FAF08FC-C5E5-4B1E-9FD6-BE22219239BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FAF08FC-C5E5-4B1E-9FD6-BE22219239BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50AF8979-C713-4878-BBBD-9FF2A44E261F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AF8979-C713-4878-BBBD-9FF2A44E261F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A996961-AF9A-4BCB-887F-4D26858E8E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A996961-AF9A-4BCB-887F-4D26858E8E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A996961-AF9A-4BCB-887F-4D26858E8E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A996961-AF9A-4BCB-887F-4D26858E8E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9021D001-26E9-4189-B738-EEE383999B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9021D001-26E9-4189-B738-EEE383999B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9021D001-26E9-4189-B738-EEE383999B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9021D001-26E9-4189-B738-EEE383999B00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
