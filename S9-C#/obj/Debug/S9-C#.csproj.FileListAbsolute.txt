@@ -1,0 +1,10 @@
+C:\Users\UPN\Desktop\FA_S10C2\FA-2026-16186\S9-C#\bin\Debug\S9-C#.exe.config
+C:\Users\UPN\Desktop\FA_S10C2\FA-2026-16186\S9-C#\bin\Debug\S9-C#.exe
+C:\Users\UPN\Desktop\FA_S10C2\FA-2026-16186\S9-C#\bin\Debug\S9-C#.pdb
+C:\Users\UPN\Desktop\FA_S10C2\FA-2026-16186\S9-C#\bin\Debug\biblioteca.dll
+C:\Users\UPN\Desktop\FA_S10C2\FA-2026-16186\S9-C#\bin\Debug\biblioteca.pdb
+C:\Users\UPN\Desktop\FA_S10C2\FA-2026-16186\S9-C#\obj\Debug\S9-C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA_S10C2\FA-2026-16186\S9-C#\obj\Debug\S9-C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA_S10C2\FA-2026-16186\S9-C#\obj\Debug\S9-C#.csproj.Up2Date
+C:\Users\UPN\Desktop\FA_S10C2\FA-2026-16186\S9-C#\obj\Debug\S9-C#.exe
+C:\Users\UPN\Desktop\FA_S10C2\FA-2026-16186\S9-C#\obj\Debug\S9-C#.pdb

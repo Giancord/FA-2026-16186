@@ -26,7 +26,7 @@ namespace biblioteca
             Console.WriteLine("Ingrese el segundo lado: ");
             int l2 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"\nEl perímetro del rectángulo es: {l1 + l2}");
+            Console.WriteLine($"\nEl perímetro del rectángulo es: {(l1 + l2)*2}");
         }
     }
 }

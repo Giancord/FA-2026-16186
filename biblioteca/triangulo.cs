@@ -10,6 +10,8 @@ namespace biblioteca
     {
         public void Area() 
         {
+            //Para abrir la biblioteca dll click en el proyecto biblioteca y "abrir carpeta en el explorador de windows"
+
             Console.WriteLine("Ingrese la base: ");
             int baase = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese la altura: ");
