@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biblioteca", "biblioteca\bi
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "S10-P", "S10-P\S10-P.pyproj", "{312C86A1-8910-472B-A738-108C69D9F456}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S11_C#", "S11_C#\S11_C#.csproj", "{A53FCECB-9D64-4AFA-A32A-BD0BC46C5377}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{9021D001-26E9-4189-B738-EEE383999B00}.Release|Any CPU.Build.0 = Release|Any CPU
 		{312C86A1-8910-472B-A738-108C69D9F456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{312C86A1-8910-472B-A738-108C69D9F456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53FCECB-9D64-4AFA-A32A-BD0BC46C5377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53FCECB-9D64-4AFA-A32A-BD0BC46C5377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53FCECB-9D64-4AFA-A32A-BD0BC46C5377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53FCECB-9D64-4AFA-A32A-BD0BC46C5377}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
