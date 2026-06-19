@@ -4,15 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace S12_C_
+namespace S13_C_
 {
-    internal class principal_Estudiantes
+    internal class Program
     {
         static void Main(string[] args)
         {
-            //Programa que muestra un menú de opciones usando una clase "Estudiantes".
 
-            Estudiantes e = new Estudiantes();
+            estudiantes13 e = new estudiantes13();
             string continuar;
 
             do
@@ -27,21 +26,31 @@ namespace S12_C_
                         e.Mostrar();
                         break;
                     case 3:
-                        e.Eliminar();
+                        Console.Write("Ingrese el nombre a buscar: ");
+                        string nom = Console.ReadLine();
+                        Console.WriteLine($"\nEl nombre existe y esta en la posición {e.Buscar(nom) + 1}");
+                        
                         break;
                     case 4:
-                        e.ordenar();
+                        e.Modificar();
                         break;
                     case 5:
+                        e.Eliminar();
+                        break;
+                    case 6:
+                        e.Ordenar();
+                        
+
+                        break;
+                    case 7:
                         Environment.Exit(0); //Para cerrar consola.
                         break;
 
                 }
-                Console.Write("¿Desea continuar? Presione (s): ");
+                Console.Write("¿Desea continuar? Presione [s]: ");
                 continuar = Console.ReadLine().Trim().ToLower(); //Trim quita los espacios en blanco
 
-            } while (continuar=="s");
-
+            } while (continuar == "s");
 
         }
     }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Reflection.Emit;
 using System.Security.Cryptography.X509Certificates;
@@ -68,6 +69,7 @@ namespace S12_C_
 
         public void Mostrar()
         {
+            
             Console.WriteLine("\nLista de edades: \n");
             Console.Write("POS\tEDAD\n");
             for (int i = 0; i < edad.Length; i++)
@@ -106,10 +108,31 @@ namespace S12_C_
 
         }
 
+        public void ordenar() 
+        {
+
+            byte temporal;
+            Console.WriteLine("Edades ordenadas: ");
+            for (int i=0; i<edad.Length-1;i++)
+            {
+                for (int j=0;j<edad.Length-1-i;j++)
+                {
+                    if (edad[j]< edad[j+1])
+                    {
+                        temporal = edad[j];
+                        edad[j] = edad[j + 1];
+                        edad[j + 1] = temporal;
+                        string.Join(",", edad);
+
+                    }
+                }
+            }
+        }
+
 
     }
 
-
+}
         
     
-}
+
