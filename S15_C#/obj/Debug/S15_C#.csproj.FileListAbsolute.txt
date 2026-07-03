@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\FA_S15C2\FA-2026-16186\S15_C#\obj\Debug\S15_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA_S15C2\FA-2026-16186\S15_C#\obj\Debug\S15_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA_S15C2\FA-2026-16186\S15_C#\bin\Debug\S15_C#.exe.config
+C:\Users\UPN\Desktop\FA_S15C2\FA-2026-16186\S15_C#\bin\Debug\S15_C#.exe
+C:\Users\UPN\Desktop\FA_S15C2\FA-2026-16186\S15_C#\bin\Debug\S15_C#.pdb
+C:\Users\UPN\Desktop\FA_S15C2\FA-2026-16186\S15_C#\obj\Debug\S15_C#.exe
+C:\Users\UPN\Desktop\FA_S15C2\FA-2026-16186\S15_C#\obj\Debug\S15_C#.pdb
+C:\Users\UPN\Desktop\FA_S15C2\FA-2026-16186\S15_C#\obj\Debug\S15_C#.exe.config
